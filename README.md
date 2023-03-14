@@ -1,6 +1,6 @@
 # Ambilight - PC
 
-Project created by 4 students for the subject: Embedded systems.
+Project created by 5 students for the subject: Embedded systems.
 
 It lights up LED's behind your screen.
 
